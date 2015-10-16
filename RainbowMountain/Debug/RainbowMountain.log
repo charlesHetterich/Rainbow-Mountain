@@ -1,0 +1,50 @@
+﻿Build started 10/15/2015 10:33:06 PM.
+     1>Project "C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\RainbowMountain\RainbowMountain.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt sprites.cpp
+         sprites.cpp
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(56): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(57): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(62): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(74): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(75): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(79): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(80): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(87): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(88): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\rainbowmountain\rainbowmountain\sprites.cpp(260): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\Debug\RainbowMountain.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib SDL2.lib SDL2main.lib SDL2_mixer.lib SDL2_image.lib SDL2_ttf.lib freetype.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\Debug\RainbowMountain.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\Debug\RainbowMountain.lib" /MACHINE:X86 Debug\Block.obj
+         Debug\Bomb.obj
+         Debug\Collision.obj
+         Debug\Data.obj
+         Debug\Enemies.obj
+         Debug\Events.obj
+         Debug\FatBoy.obj
+         Debug\Floors.obj
+         Debug\Health.obj
+         Debug\HellBoy.obj
+         Debug\HighCloud.obj
+         Debug\Laser.obj
+         Debug\Meteors.obj
+         Debug\Missle.obj
+         Debug\Mountain.obj
+         Debug\Mouse.obj
+         Debug\Music.obj
+         Debug\Player.obj
+         Debug\PlayerInfo.obj
+         Debug\RainbowMountain.obj
+         Debug\Score.obj
+         Debug\sprites.obj
+         Debug\Game.obj
+         Debug\SDL_setup.obj
+         Debug\Stars.obj
+         Debug\Tacano.obj
+         Debug\Text.obj
+         RainbowMountain.vcxproj -> C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\Debug\RainbowMountain.exe
+     1>Done Building Project "C:\Users\Charles\Desktop\C++ Projects\Projects\RainbowMountain\RainbowMountain\RainbowMountain.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.22
